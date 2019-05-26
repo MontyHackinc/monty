@@ -2,7 +2,7 @@
 <sharpUpdate> 
     <update> 
         <version>3.2.0.0</version> 
-        <url>https://www.dropbox.com/s/94txo3fe568ttuf/GTAV_Setup_Tool.exe?dl=1</url> 
+        <url>/test_add/SharpUpdate_test_add.dl</url> 
         <filePath>./MontyHack.exe</filePath>
         <md5>F16F9270971EAEAE8E313B32E8FF0814</md5>
         <description>Update: 10/06/2018:
@@ -21,7 +21,7 @@
     <add> 
         <version>1.0.0.0</version> 
         <url>https://raw.githubusercontent.com/henryxrl/SharpUpdate/master/TestApp/bin/Debug/SharpUpdate.dll</url> 
-        <filePath>./test_add/MontyHack.dll</filePath>
+        <filePath>./test_add/SharpUpdate_test_add.dl</filePath>
         <md5>88237737FECE6C41EF6CD10AE4DC54C0</md5>
         <description>Add: 10/06/2018:
         1. Test add.</description> 
