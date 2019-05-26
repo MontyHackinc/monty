@@ -21,7 +21,7 @@
     <add> 
         <version>1.0.0.0</version> 
         <url>https://www.dropbox.com/s/rijt8xzu7rk8qu9/MontyHack.dll?dl=1</url> 
-        <filePath>./test_add/https://MontyHack.dll</filePath>
+        <filePath>./test_add/MontyHack.dll</filePath>
         <md5>88237737FECE6C41EF6CD10AE4DC54C0</md5>
         <description>Add: 10/06/2018:
         1. Test add.</description> 
