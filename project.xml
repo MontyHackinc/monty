@@ -2,7 +2,7 @@
 <sharpUpdate> 
     <update> 
         <version>3.0.0.0</version> 
-        <url>https://github.com/MontyHackinc/montyhack/blob/master/MontyHack.exe?raw=true</url> 
+        <url>https://github.com/MontyHackinc/montyhack/raw/master/MontyHack.exe</url> 
         <filePath>./MontyHack.exe</filePath>
         <md5>F16F9270971EAEAE8E313B32E8FF0814</md5>
         <description>Update: 10/06/2018:
