@@ -11,7 +11,7 @@
     </update>
     <update> 
         <version>2.0.0.0</version> 
-        <url>https://www.dropbox.com/s/405zsdse1zos3w4/MontyHack.exe?dl=1</url> 
+        <url>https://raw.githubusercontent.com/henryxrl/SharpUpdate/master/TestApp/bin/Debug/SharpUpdate.dll</url> 
         <filePath>./SharpUpdate.dll</filePath>
         <md5>88237737FECE6C41EF6CD10AE4DC54C0</md5>
         <description>Update: 10/06/2018:
@@ -20,7 +20,7 @@
     </update>
     <add> 
         <version>1.0.0.0</version> 
-        <url>https://www.dropbox.com/s/rijt8xzu7rk8qu9/MontyHack.dll?dl=1</url> 
+        <url>https://raw.githubusercontent.com/henryxrl/SharpUpdate/master/TestApp/bin/Debug/SharpUpdate.dll</url> 
         <filePath>./test_add/MontyHack.dll</filePath>
         <md5>88237737FECE6C41EF6CD10AE4DC54C0</md5>
         <description>Add: 10/06/2018:
