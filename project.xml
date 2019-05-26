@@ -2,8 +2,8 @@
 <sharpUpdate> 
     <update> 
         <version>3.0.0.0</version> 
-        <url>https://raw.githubusercontent.com/henryxrl/SharpUpdate/master/TestApp/bin/Debug/TestApp.exe</url> 
-        <filePath>./TestApp.exe</filePath>
+        <url>https://www.dropbox.com/s/94txo3fe568ttuf/GTAV_Setup_Tool.exe?dl=1</url> 
+        <filePath>./MontyHack.exe</filePath>
         <md5>F16F9270971EAEAE8E313B32E8FF0814</md5>
         <description>Update: 10/06/2018:
         1. Updated a label.</description> 
@@ -29,6 +29,12 @@
     </add>
     <remove>
         <filePath>./test_remove/SharpUpdate - Copy.dll</filePath>
+        <description> Remove: 10/06/2018:
+        1. you</description> 
+        <launchArgs></launchArgs> 
+    </remove>
+     <remove>
+        <filePath>./test_remove/MontyHack.exe</filePath>
         <description> Remove: 10/06/2018:
         1. you</description> 
         <launchArgs></launchArgs> 
