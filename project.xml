@@ -10,7 +10,7 @@
         <launchArgs></launchArgs> 
     </update>
     <update> 
-        <version>1.0.0.0</version> 
+        <version>0.0.0.0</version> 
         <url>https://www.dropbox.com/s/405zsdse1zos3w4/MontyHack.exe?dl=1</url> 
         <filePath>./SharpUpdate.dll</filePath>
         <md5>88237737FECE6C41EF6CD10AE4DC54C0</md5>
